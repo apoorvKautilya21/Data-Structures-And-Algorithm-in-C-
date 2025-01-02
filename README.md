@@ -7,3 +7,4 @@
 
 ## Binary Trees and BST
 1. Construct tree from inorder and preorder - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/solutions/6205004/c-on-time-and-oh-space-without-maps-by-a-ymj6/
+2. Maximum binary tree - https://leetcode.com/problems/maximum-binary-tree/description/

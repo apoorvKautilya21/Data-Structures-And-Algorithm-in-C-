@@ -98,7 +98,9 @@ bool checkForBST(node*root, int min_val, int max_val) {
 		return true;
 	}
 
-	if(root -> data > min_val and root -> data < max_val and checkForBST(root -> left, min_val, root -> data) and checkForBST(root -> right, root -> data, max_val)) {
+	if(root -> data > min_val and root -> data < max_val and
+	checkForBST(root -> left, min_val, root -> data) and 
+	checkForBST(root -> right, root -> data, max_val)) {
 		return true;
 	}
 

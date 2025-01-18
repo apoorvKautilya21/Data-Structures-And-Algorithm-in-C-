@@ -8,7 +8,7 @@ int maxSubArrSum(int a[], int n) {
 
 	dp[0] = a[0] > 0 ? a[0] : 0;
 	int max_so_far = dp[0];
-	for(int i = 0; i < n; i++) {
+	for(int i = 1; i < n; i++) {
 		dp[i] = dp[i - 1] + a[i];
 		// max_so_far line is here since if all elements will be negative it will return
 		// least negative number

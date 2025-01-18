@@ -27,13 +27,25 @@ int profitBU(int wines[], int n) {
 
 	int dp[100][100] = {0};
 
+	// Put 0 for i > j, i.e., at the lower diagonal of the matrix
 	// For nth year
 	for(int i = 0; i < n; i++) {
 		dp[i][i] = wines[i] * n;
 	}
 	// From (n - 1)th year
 	int y = n - 1;
-
+	// dg_no is the diagonal number from the main diagonal
+	// matrix will be filled diagonal wise
+	/*
+	P = pre-cmputed
+	f = first
+	s = second
+	l = last
+	P f s l
+	0 P f s 
+	0 0 P f 
+	0 0 0 P 
+	*/
 	for(int dg_no = 1; dg_no < n; dg_no++) {
 		int i = 0;
 		int j = dg_no;

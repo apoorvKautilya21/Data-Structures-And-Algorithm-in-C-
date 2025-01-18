@@ -3,7 +3,7 @@ using namespace std;
 
 void reverseArr(int *a, int start, int end) {
 
-	if(start == end) {
+	if(start >= end) {
 		return;
 	}
 
@@ -18,7 +18,7 @@ void display(int *a, int n) {
 }
 
 int main() {
-	int a[] = {12,1,2,3,533,412,314};
+	int a[] = {12,2,3,533,412,314};
 
 	int n = sizeof(a) / sizeof(int);
 

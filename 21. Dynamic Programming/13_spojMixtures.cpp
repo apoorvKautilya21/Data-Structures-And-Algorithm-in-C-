@@ -1,3 +1,4 @@
+// https://www.spoj.com/problems/MIXTURES/
 #include<iostream>
 #include<climits>
 using namespace std;

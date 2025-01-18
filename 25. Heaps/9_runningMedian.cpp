@@ -9,7 +9,7 @@ int main() {
 	float median = 0;	
 
 	priority_queue<float> max_heap;
-	priority_queue<float, vector<int>, greater<int> > min_heap;
+	priority_queue<float, vector<float>, greater<float> > min_heap;
 
 	for(int i = 0; i < n; i++) {
 

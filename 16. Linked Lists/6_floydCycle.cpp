@@ -239,13 +239,15 @@ void removeCycle(node*& head) {
 
 	node*slow = head;
 	node*fast = head;
+	node*prev;
 	while(fast!=NULL or fast->next!=NULL) {
 		fast = fast -> next -> next;
+		prev = slow;
 		slow = slow -> next;
 		if(slow == fast) break;
 	}
+	
 	slow = head;
-	node*prev;
 	while(slow!=fast) {
 		prev = fast;
 		fast = fast -> next;

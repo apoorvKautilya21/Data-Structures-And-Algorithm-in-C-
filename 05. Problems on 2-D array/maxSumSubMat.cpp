@@ -1,3 +1,4 @@
+// only for sorted 2-D arrays
 #include<iostream> 
 using namespace std;
 # define n 3

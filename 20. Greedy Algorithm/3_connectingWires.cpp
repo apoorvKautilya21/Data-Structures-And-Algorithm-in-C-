@@ -17,3 +17,13 @@ int main() {
 	cout << ans << endl;
 
 }
+
+// 2 3 4
+// 5 6 7
+// 2 3 4
+// 7 6 5
+// 2 3 4 5 6 7
+//  a b c d e 
+// abcbcdcde
+// a2b3c2de
+// cbcdabcde

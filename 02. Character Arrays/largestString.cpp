@@ -2,6 +2,8 @@
 #include<cstring>
 using namespace std;
 
+// you will be given with N strings and you have to find the largest string and its length
+
 int main() {
 
 	char curr[1000];

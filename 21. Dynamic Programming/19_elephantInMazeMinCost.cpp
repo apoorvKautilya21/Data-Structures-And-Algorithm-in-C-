@@ -15,7 +15,7 @@ int countPaths() {
 
 	for(int i = 0; i < C; i++) {
 		for(int j = 0; j < i; j++) {
-			dp[0][i] += dp[0][i];
+			dp[0][i] += dp[0][j];
 		} 
 	}
 

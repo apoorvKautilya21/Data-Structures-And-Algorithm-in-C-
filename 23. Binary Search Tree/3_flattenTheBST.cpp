@@ -112,7 +112,7 @@ LinkedList flatten(node* root) {
 	LinkedList leftLL = flatten(root -> left);
 	LinkedList rightLL = flatten(root -> right);
 
-	leftLL.tail -> right = root;
+	if(leftLL.tail)  leftLL.tail -> right = root;
 	root -> right = rightLL.head;
 
 	LL.head = leftLL.head;

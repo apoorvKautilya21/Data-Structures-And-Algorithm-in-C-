@@ -112,7 +112,7 @@ int findDiameter(node*head) {
 	int h_left = hieghtBT(head -> left);
 	int h_right = hieghtBT(head -> right);
 
-	return max(max(d1, d2), h_right + h_left);
+	return max(max(d1, d2), 1 + h_right + h_left);
 }
 
 

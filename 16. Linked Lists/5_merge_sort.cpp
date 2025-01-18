@@ -188,7 +188,7 @@ node* mid_node(node* head) {
 	node*slow = head;
 	node*fast = head -> next;
 
-	while(fast != NULL and fast -> next != NULL) {
+	while(fast != NULL and fast -> next != NULL and fast -> next -> next != NULL) {
 		fast = (fast -> next) -> next;
 		slow = slow -> next;
 	}

@@ -26,9 +26,5 @@ int main() {
 	int n = sizeof(coins) / sizeof(int);
 	cout << "Number of coins " << MinCoins(coins, n, money);
 
-
-
-
-
 	return 0;
 }

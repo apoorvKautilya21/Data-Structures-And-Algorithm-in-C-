@@ -3,18 +3,13 @@ using namespace std;
 
 int noOfWays(int n, int m) {
 
-	if(n < 0) {
-		return 0; 
+	if(n <= 1) {
+		return n; 
 	}
-	if(n == 0) {
-		return 1;
-	}
+
 	int f_n = 0;
-	for(int i = 1; i <= m; i++) {
+	for(int i = 1; i <= m and i <= n; i++) {
 		int num = noOfWays(n - i, m);
-		if(num == 0) {
-			break;
-		}
 		f_n += num;
 	}
 

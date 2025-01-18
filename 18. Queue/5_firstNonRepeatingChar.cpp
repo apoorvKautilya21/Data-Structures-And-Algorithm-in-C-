@@ -14,7 +14,9 @@ int main() {
 
 		int ind = a - 'a';
 		freq[ind]++;
-		q.push(a);
+		if(freq[ind] == 1) {
+			q.push(a);
+		}
 		while(!q.empty() and freq[q.front() - 'a'] > 1) {
 			q.pop();
 		}

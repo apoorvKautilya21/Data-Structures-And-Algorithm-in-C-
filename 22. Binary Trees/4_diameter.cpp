@@ -88,7 +88,7 @@ int findDiameter(node*head) {
 	int h_left = hieghtBT(head -> left);
 	int h_right = hieghtBT(head -> right);
 
-	return max(max(d1, d2), h_right + h_left);
+	return max(max(d1, d2), 1 + h_right + h_left);
 }
 
 // class Pair {
@@ -129,7 +129,7 @@ pair<int, int> findDiameterOptimized2(node*head) {
 	pair<int, int> p2 = findDiameterOptimized2(head -> right);
 
 	int h = max(p1.first, p2.first) + 1;
-	int d = max(max(p1.second, p2.second), p1.first + p2.first);
+	int d = max(max(p1.second, p2.second), p1.first + p2.first + 1);
 
 	return make_pair(h, d);
 }

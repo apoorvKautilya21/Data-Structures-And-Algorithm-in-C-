@@ -1,4 +1,4 @@
-Backtracking && Recursions
+Backtracking && Recursion
 
 1. Combination sum without dups and we can choose a number any number of times. Here TC -> O(N^(T/M)), T -> target sum, M -> smallest element, N->length of array (https://leetcode.com/problems/combination-sum/description/)
 2. Combination sum with dups -> TC-O(n*2^n) (https://leetcode.com/problems/combination-sum-ii/description/)
@@ -28,11 +28,6 @@ Meet in the middle
 
 Divide and conqure
 1. (https://leetcode.com/problems/find-array-given-subset-sums/description/)
-
-
-
-Tries
-1. Longest Common Prefix of K Strings After Removal - Beautiful question of Trie (https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description/)
 
 
 Graph
@@ -352,6 +347,7 @@ Trie
 3. Complete string (https://www.naukri.com/code360/problems/complete-string_2687860?leftPanelTabValue=SUBMISSION)
 4. Count Distinct Substrings (https://www.naukri.com/code360/problems/count-distinct-substrings_985292)
 5. Maximum XOR of Two Numbers in an Array (https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
+6. Longest Common Prefix of K Strings After Removal - Beautiful question of Trie (https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description/)
 
 
 

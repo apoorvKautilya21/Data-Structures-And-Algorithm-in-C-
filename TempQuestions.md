@@ -1,4 +1,4 @@
-Backtracking && Recursion
+Backtracking && Recursions
 
 1. Combination sum without dups and we can choose a number any number of times. Here TC -> O(N^(T/M)), T -> target sum, M -> smallest element, N->length of array (https://leetcode.com/problems/combination-sum/description/)
 2. Combination sum with dups -> TC-O(n*2^n) (https://leetcode.com/problems/combination-sum-ii/description/)

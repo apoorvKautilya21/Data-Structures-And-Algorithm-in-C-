@@ -53,7 +53,7 @@ Graph
 17. [SKIP IF YOU WANT] Shortest Distance in a Binary Maze (https://www.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1)
 18. [Dijkstra] Path With Minimum Effort (https://leetcode.com/problems/path-with-minimum-effort/description/)
 19. Cheapest flights with k stops (https://leetcode.com/problems/cheapest-flights-within-k-stops/)
-    19.1 SHIKSHA TIME - whenever steps are involved in finding the min cost in a weighted graph then better to use BFS
+    19.1 SHIKSHA TIME - whenever steps are involved in finding the min cost in a weighted graph then better to use BFS or Bellman ford
 20. Minimum Multiplications to reach End (https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/0)
 21. Number of ways to arrive at destination (https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/)
 22. Bellman ford (https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
@@ -84,6 +84,7 @@ Graph
 47. Valid BFS (https://codeforces.com/problemset/problem/1037/D)
 48. Maximize Amount After Two Days of Conversions (https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/description/)
 49. Race car (https://leetcode.com/problems/race-car/description/)
+50. Maximize the Number of Target Nodes After Connecting Trees I (https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/)
 
 
 
@@ -238,6 +239,7 @@ Stacks (Check if there is any monotonicity in problems, write down the question 
 12. Online Stock Span (https://leetcode.com/problems/online-stock-span/description/)
 13. Evaluate Reverse Polish Notation (https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 14. Decode string (https://leetcode.com/problems/decode-string/description/)
+15. Basic calculator II (https://leetcode.com/problems/basic-calculator-ii/description/)
 
 
 
@@ -308,6 +310,7 @@ Math
 Array
 1. First missing Positive number (https://leetcode.com/problems/first-missing-positive/description/)
 2. Container With Most Water (https://leetcode.com/problems/container-with-most-water/description/)
+3. Maximum Width Ramp (https://leetcode.com/problems/maximum-width-ramp/description/)
 
 
 Linked list
@@ -334,6 +337,10 @@ Linked list
 21. LRU (https://leetcode.com/problems/lru-cache/submissions/1587777136/)
 22. LFU (https://leetcode.com/problems/lfu-cache/description/)
 23. Merge k sorted lists (https://leetcode.com/problems/merge-k-sorted-lists/description/)
+24. Linked List in Binary Tree (https://leetcode.com/problems/linked-list-in-binary-tree/description/)
+25. 
+
+
 
 Intervals
 1. Merge intervals (https://leetcode.com/problems/merge-intervals/description/)
@@ -350,6 +357,13 @@ Trie
 6. Longest Common Prefix of K Strings After Removal - Beautiful question of Trie (https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description/)
 
 
+String matching Algo
+1. Find the Index of the First Occurrence in a String - KMP (https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+2. Longest Happy Prefix - KMP (https://leetcode.com/problems/longest-happy-prefix/description/)
+3. Find the Occurrence of First Almost Equal Substring - Z Algo (https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/description/)
+
+
+
 
 
 
@@ -363,7 +377,7 @@ Trie
 1. For unit weights graphs - use BFS
 2. For DAG (-ve wts as well) use Topo sort - In O(V + E)
 3. For Dijkstra -> All cases excepts Graphs with negative cycles where it gives TLE
-4. Bellman ford - all cases - detect -ve cycles
+4. Bellman ford - all cases - detect -ve cycles ( use a dictionary to do this, and we repeatedly test out each edge to see if converting using the maximums we already know leads to a new maximum. We repeat until we are sure we have exhausted all possible (greedy) sequences of conversions. This is Bellman-Ford shortest path algorithm, where relaxing an edge just means trying out a conversion.)
 5. Floyd warshall - multi source shortest path - all cases - detect -ve cycles
 
 ---- Cycle detection ----
@@ -376,7 +390,8 @@ Trie
 
 
 
-
+https://leetcode.com/discuss/post/5031296/google-technical-phone-screen-round-2024-1mbj/
+(TRIE + BFS)
 
 
 https://leetcode.com/problems/russian-doll-envelopes/description/
@@ -388,6 +403,4 @@ https://leetcode.com/discuss/post/5567668/google-interview-onsite-1-by-anonymous
 
 
 https://leetcode.com/discuss/post/6532222/google-onsite-googliness-round-by-anonym-p32b/
-
-
 

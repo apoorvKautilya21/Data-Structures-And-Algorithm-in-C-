@@ -18,6 +18,7 @@ Dynamic Programming
 14. Maximum Product Subarray (https://leetcode.com/problems/maximum-product-subarray/description/)
 15. Palindrome Partitioning II (https://leetcode.com/problems/palindrome-partitioning-ii/)
 16. Word break (https://leetcode.com/problems/word-break/description/)
+17. Domino and Tromino Tiling (https://leetcode.com/problems/domino-and-tromino-tiling/description/)
 
 
 
@@ -67,6 +68,7 @@ DP on Strings (LCS)
 12. Wildcard matching (https://leetcode.com/problems/wildcard-matching/description/)
 13. Longest palindromic substring - See Manacher's Algorithm if have time (https://leetcode.com/problems/longest-palindromic-substring/description/)
 14. Interleaving string (https://leetcode.com/problems/interleaving-string/description/)
+15. Longest Palindrome After Substring Concatenation II (https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/description/)
 
 
 DP on subsequences
@@ -112,6 +114,7 @@ DP on grids
 9. Paths in Matrix Whose Sum Is Divisible by K (https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/)
 10. Maximum Number of Points with Cost (https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)
 11. [DP + Stacks] Maximal Rectangle (https://leetcode.com/problems/maximal-rectangle/)
+12. Cherry pickup (https://leetcode.com/problems/cherry-pickup/description/)
 
 
 Multidimensional DP
@@ -138,6 +141,7 @@ DP on Bitmask
 4. Find Minimum Time to Finish All Jobs - generate all submasks (https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/?envType=problem-list-v2&envId=96ddan7d)
 5. Smallest Sufficient Team (https://leetcode.com/problems/smallest-sufficient-team/)
 6. Maximize Grid Happiness (https://leetcode.com/problems/maximize-grid-happiness/)
+7. Count the Number of Square-Free Subsets (https://leetcode.com/problems/count-the-number-of-square-free-subsets/)
 
 
 

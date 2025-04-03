@@ -85,6 +85,7 @@ Graph
 48. Maximize Amount After Two Days of Conversions (https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/description/)
 49. Race car (https://leetcode.com/problems/race-car/description/)
 50. Maximize the Number of Target Nodes After Connecting Trees I (https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/)
+51. Shortest Path in a Grid with Obstacles Elimination (https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/)
 
 
 
@@ -199,6 +200,10 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 15. Minimum Size Subarray Sum - Positive numbers only - try both O(n) & O(nlogn solutions) (https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 16. Shortest Subarray with Sum at Least K - Both Positive and negative numbers - Priority queue OR Deque  (https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)
 17. Jump game 7 - DP + sliding window (https://leetcode.com/problems/jump-game-vii/description/)
+18. Frequency of the Most Frequent Element (https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/)
+19. Substring with Concatenation of All Words (https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
+
+
 
 
 Prefix sum
@@ -211,6 +216,11 @@ Hashing
 3. Largest subarray with 0 sum (https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
 4. Subarray Sum Equals K - Prefix sum and hash table (https://leetcode.com/problems/subarray-sum-equals-k/)
 5. Count Subarrays with given XOR (https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/0)
+6. Divide Array in Sets of K Consecutive Numbers - Try O(n) (https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/)
+7. K-diff Pairs in an Array (https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+
+
+
 
 
 Priority queue
@@ -311,6 +321,7 @@ Array
 1. First missing Positive number (https://leetcode.com/problems/first-missing-positive/description/)
 2. Container With Most Water (https://leetcode.com/problems/container-with-most-water/description/)
 3. Maximum Width Ramp (https://leetcode.com/problems/maximum-width-ramp/description/)
+4. Merge 2 sorted list (https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)
 
 
 Linked list
@@ -403,4 +414,6 @@ https://leetcode.com/discuss/post/5567668/google-interview-onsite-1-by-anonymous
 
 
 https://leetcode.com/discuss/post/6532222/google-onsite-googliness-round-by-anonym-p32b/
+
+
 

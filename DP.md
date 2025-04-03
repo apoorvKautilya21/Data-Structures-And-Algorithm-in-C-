@@ -142,7 +142,6 @@ DP on Bitmask
 5. Smallest Sufficient Team (https://leetcode.com/problems/smallest-sufficient-team/)
 6. Maximize Grid Happiness (https://leetcode.com/problems/maximize-grid-happiness/)
 7. Count the Number of Square-Free Subsets (https://leetcode.com/problems/count-the-number-of-square-free-subsets/)
-
-
+8. Painting a Grid With Three Different Colors (https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/)
 
 

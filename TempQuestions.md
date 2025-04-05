@@ -357,6 +357,7 @@ Intervals
 1. Merge intervals (https://leetcode.com/problems/merge-intervals/description/)
 2. Insert intervals (https://leetcode.com/problems/insert-interval/)
 3. Range module (https://leetcode.com/problems/range-module/)
+4. Interval List Intersections (https://leetcode.com/problems/interval-list-intersections/description/)
 
 
 Trie
@@ -366,6 +367,11 @@ Trie
 4. Count Distinct Substrings (https://www.naukri.com/code360/problems/count-distinct-substrings_985292)
 5. Maximum XOR of Two Numbers in an Array (https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 6. Longest Common Prefix of K Strings After Removal - Beautiful question of Trie (https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description/)
+
+Segment tree
+1. Range Sum Query - Mutable (https://leetcode.com/problems/range-sum-query-mutable/?envType=problem-list-v2&envId=segment-tree)
+2. Xenia and bitwise operation (https://codeforces.com/problemset/problem/339/D)
+3. Sereja and Brackets (https://codeforces.com/problemset/problem/380/C)
 
 
 String matching Algo

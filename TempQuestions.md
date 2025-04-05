@@ -370,8 +370,8 @@ Trie
 
 Segment tree
 1. Range Sum Query - Mutable (https://leetcode.com/problems/range-sum-query-mutable/?envType=problem-list-v2&envId=segment-tree)
-2. Xenia and bitwise operation (https://codeforces.com/problemset/problem/339/D)
-3. Sereja and Brackets (https://codeforces.com/problemset/problem/380/C)
+2. Xenia and bitwise operation (https://codeforces.com/problemset/problem/339/D) - [Solution](https://github.com/apoorvKautilya21/Data-Structures-And-Algorithm-in-C-/blob/main/30.%20Segment%20trees/4_bitwiseCodeForces.cpp)
+3. Sereja and Brackets (https://codeforces.com/problemset/problem/380/C) - [Solution](https://github.com/apoorvKautilya21/Data-Structures-And-Algorithm-in-C-/blob/main/30.%20Segment%20trees/5_bracketsCodeforces.cpp)
 
 
 String matching Algo

@@ -19,6 +19,7 @@ Dynamic Programming
 15. Palindrome Partitioning II (https://leetcode.com/problems/palindrome-partitioning-ii/)
 16. Word break (https://leetcode.com/problems/word-break/description/)
 17. Domino and Tromino Tiling (https://leetcode.com/problems/domino-and-tromino-tiling/description/)
+18. Maximum Alternating Subsequence Sum (https://leetcode.com/problems/maximum-alternating-subsequence-sum/)
 
 
 
@@ -119,6 +120,7 @@ DP on grids
 
 Multidimensional DP
 1. Paint House 3 (https://leetcode.com/problems/paint-house-iii/)
+2. Freedom Trail (https://leetcode.com/problems/freedom-trail/)
 
 
 Digit DP

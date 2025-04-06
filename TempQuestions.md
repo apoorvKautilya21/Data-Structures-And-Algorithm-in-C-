@@ -86,6 +86,7 @@ Graph
 49. Race car (https://leetcode.com/problems/race-car/description/)
 50. Maximize the Number of Target Nodes After Connecting Trees I (https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/)
 51. Shortest Path in a Grid with Obstacles Elimination (https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/)
+52. [Do it if you have time] Frog Jump (https://leetcode.com/problems/frog-jump/description/)
 
 
 
@@ -202,6 +203,11 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 17. Jump game 7 - DP + sliding window (https://leetcode.com/problems/jump-game-vii/description/)
 18. Frequency of the Most Frequent Element (https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/)
 19. Substring with Concatenation of All Words (https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
+20. Equal (https://www.interviewbit.com/problems/equal/)
+21. Sort by color (https://www.interviewbit.com/problems/sort-by-color/)
+22. Counting Triangles (https://www.interviewbit.com/problems/counting-triangles/)
+23. Contiguous Array (https://leetcode.com/problems/contiguous-array/description/)
+24. Longest Subarray Length (https://www.interviewbit.com/problems/longest-subarray-length/)
 
 
 
@@ -349,7 +355,8 @@ Linked list
 22. LFU (https://leetcode.com/problems/lfu-cache/description/)
 23. Merge k sorted lists (https://leetcode.com/problems/merge-k-sorted-lists/description/)
 24. Linked List in Binary Tree (https://leetcode.com/problems/linked-list-in-binary-tree/description/)
-25. 
+25. Minimum Pair Removal to Sort Array II (https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/description/)
+
 
 
 
@@ -372,6 +379,9 @@ Segment tree
 1. Range Sum Query - Mutable (https://leetcode.com/problems/range-sum-query-mutable/?envType=problem-list-v2&envId=segment-tree)
 2. Xenia and bitwise operation (https://codeforces.com/problemset/problem/339/D) - [Solution](https://github.com/apoorvKautilya21/Data-Structures-And-Algorithm-in-C-/blob/main/30.%20Segment%20trees/4_bitwiseCodeForces.cpp)
 3. Sereja and Brackets (https://codeforces.com/problemset/problem/380/C) - [Solution](https://github.com/apoorvKautilya21/Data-Structures-And-Algorithm-in-C-/blob/main/30.%20Segment%20trees/5_bracketsCodeforces.cpp)
+4. Count of Smaller Numbers After Self (https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/?envType=problem-list-v2&envId=segment-tree)
+5. Count of Range Sum (https://leetcode.com/problems/count-of-range-sum/description/?envType=problem-list-v2&envId=segment-tree)
+6. 
 
 
 String matching Algo

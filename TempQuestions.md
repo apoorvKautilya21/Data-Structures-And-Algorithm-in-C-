@@ -208,6 +208,9 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 22. Counting Triangles (https://www.interviewbit.com/problems/counting-triangles/)
 23. Contiguous Array (https://leetcode.com/problems/contiguous-array/description/)
 24. Longest Subarray Length (https://www.interviewbit.com/problems/longest-subarray-length/)
+25. Subarray with equal occurences (https://www.interviewbit.com/problems/subarray-with-equal-occurences/)
+26. Two out of Three (https://www.interviewbit.com/problems/two-out-of-three/)
+27. Count Subarrays With More Ones Than Zeros (https://algomonster.medium.com/2031-count-subarrays-with-more-ones-than-zeros-d1f684a17361)
 
 
 
@@ -383,7 +386,7 @@ Segment tree
 3. Sereja and Brackets (https://codeforces.com/problemset/problem/380/C) - [Solution](https://github.com/apoorvKautilya21/Data-Structures-And-Algorithm-in-C-/blob/main/30.%20Segment%20trees/5_bracketsCodeforces.cpp)
 4. Count of Smaller Numbers After Self (https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/?envType=problem-list-v2&envId=segment-tree)
 5. Count of Range Sum (https://leetcode.com/problems/count-of-range-sum/description/?envType=problem-list-v2&envId=segment-tree)
-6. 
+6. [Just see how we are using segment tree] Create Sorted Array through Instructions (https://leetcode.com/problems/create-sorted-array-through-instructions/description/)
 
 
 String matching Algo

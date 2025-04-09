@@ -214,6 +214,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 
 Prefix sum
 1. (https://leetcode.com/problems/corporate-flight-bookings/description/)
+2. Zero Array Transformation I (https://leetcode.com/problems/zero-array-transformation-i/description/)
 
 
 Hashing
@@ -328,6 +329,7 @@ Array
 2. Container With Most Water (https://leetcode.com/problems/container-with-most-water/description/)
 3. Maximum Width Ramp (https://leetcode.com/problems/maximum-width-ramp/description/)
 4. Merge 2 sorted list (https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)
+5. Maximum Value of an Ordered Triplet II (https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/)
 
 
 Linked list

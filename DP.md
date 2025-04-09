@@ -121,6 +121,8 @@ DP on grids
 Multidimensional DP
 1. Paint House 3 (https://leetcode.com/problems/paint-house-iii/)
 2. Freedom Trail (https://leetcode.com/problems/freedom-trail/)
+3. Cutting a pizza (https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)
+4. Number of Music Playlists (https://leetcode.com/problems/number-of-music-playlists/description/)
 
 
 Digit DP

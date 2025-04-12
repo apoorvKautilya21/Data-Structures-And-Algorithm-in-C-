@@ -1,3 +1,4 @@
+-----------------------------
 ### Backtracking && Recursion
 -----------------------------
 
@@ -23,16 +24,19 @@
 
 
 
+-----------------------------
 ### Meet in the middle
 -----------------------------
 1. Closest Subsequence Sum (https://leetcode.com/problems/closest-subsequence-sum/description/)
 
 
+-----------------------------
 ### Divide and conqure
 -----------------------------
 1. (https://leetcode.com/problems/find-array-given-subset-sums/description/)
 
 
+-----------------------------
 ### Graph
 -----------------------------
 1. Detect cycle in undirected graph (https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
@@ -96,6 +100,7 @@
 
 
 
+-----------------------------
 ### Binary Trees
 -----------------------------
 1. [Too easy] Inorder, preorder, postorder, level order from leetcode
@@ -131,6 +136,7 @@
 
 
 
+-----------------------------
 ### Binary search tree (BST)
 -----------------------------
 -> FOR BST leverage the facility that leftTree < root -> data < rightTree
@@ -152,6 +158,7 @@
 13. Increasing Order Search Tree (https://leetcode.com/problems/increasing-order-search-tree/description/)
 
 
+-----------------------------
 ### Greedy (think greedily)
 -----------------------------
 1. [V easy] Assign cookies (https://leetcode.com/problems/assign-cookies/description/)
@@ -167,6 +174,7 @@ Scan left to right and right to left. at any moment if open < 0 or close < 0(rig
 
 
 
+-----------------------------
 ### Job scheduling problems (Greedy + DP)
 -----------------------------
 1. Job Sequencing Problem - See how to do it using DSU or priority queue (https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)
@@ -184,6 +192,7 @@ Scan left to right and right to left. at any moment if open < 0 or close < 0(rig
 
 
 
+-----------------------------
 ### Geometry (GOOGLE)
 -----------------------------
 1. Minimum Area rectangle (https://leetcode.com/problems/minimum-area-rectangle/description/)
@@ -192,6 +201,7 @@ Scan left to right and right to left. at any moment if open < 0 or close < 0(rig
 
 
 
+-----------------------------
 ### Two pointer and Sliding window (Try to optimize it to 1 pass)
 -----------------------------
 1. Maximum Points You Can Obtain from Cards (https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
@@ -229,12 +239,14 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 
 
 
+-----------------------------
 ### Prefix sum
 -----------------------------
 1. (https://leetcode.com/problems/corporate-flight-bookings/description/)
 2. Zero Array Transformation I (https://leetcode.com/problems/zero-array-transformation-i/description/)
 
 
+-----------------------------
 ### Hashing
 -----------------------------
 1. 2sum (https://leetcode.com/problems/two-sum/description/)
@@ -249,6 +261,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 
 
 
+-----------------------------
 ### Priority queue
 -----------------------------
 1. Kth largest element - O(N) also possible (https://leetcode.com/problems/kth-largest-element-in-an-array/)
@@ -261,7 +274,8 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 
 
 
-### Stacks (Check if there is any monotonicity in problems, write down the question and check if we need next greater/smaller and prev greater/smaller)
+-----------------------------### Stacks (Check if there is any monotonicity in problems, write down the question and check if we need next greater/smaller and prev greater/
+smaller)
 -----------------------------
 1. Valid Parentheses (https://leetcode.com/problems/valid-parentheses/description/)
 2. Min stack (https://leetcode.com/problems/min-stack/description/)
@@ -282,6 +296,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 
 
 
+-----------------------------
 ### Queue
 -----------------------------
 1. 
@@ -293,12 +308,14 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 
 
 
+-----------------------------
 ### Deque
 -----------------------------
 1. Shortest Subarray with Sum at Least K - Both Positive and negative numbers - Priority queue OR Deque  (https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)
 2. Sliding Window Maximum (https://leetcode.com/problems/sliding-window-maximum/description/)
 
 
+-----------------------------
 ### Binary search
 -----------------------------
 1. Find First and Last Position of Element in Sorted Array (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
@@ -326,6 +343,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 
 
 
+-----------------------------
 ### Math
 -----------------------------
 1. GCD (https://www.naukri.com/code360/problems/hcf-and-lcm_840448?leftPanelTabValue=SUBMISSION)
@@ -337,6 +355,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 
 
 
+-----------------------------
 ### Array
 -----------------------------
 1. First missing Positive number (https://leetcode.com/problems/first-missing-positive/description/)
@@ -346,6 +365,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 5. Maximum Value of an Ordered Triplet II (https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/)
 
 
+-----------------------------
 ### Linked list
 -----------------------------
 1. Reverse a Doubly Linked List (https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
@@ -377,6 +397,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 
 
 
+-----------------------------
 ### Intervals
 -----------------------------
 1. Merge intervals (https://leetcode.com/problems/merge-intervals/description/)
@@ -385,6 +406,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 4. Interval List Intersections (https://leetcode.com/problems/interval-list-intersections/description/)
 
 
+-----------------------------
 ### Trie
 -----------------------------
 1. Implement Trie (Prefix Tree) (https://leetcode.com/problems/implement-trie-prefix-tree/)
@@ -395,6 +417,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 6. Longest Common Prefix of K Strings After Removal - Beautiful question of Trie (https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description/)
 
 
+-----------------------------
 ### Segment tree
 -----------------------------
 1. Range Sum Query - Mutable (https://leetcode.com/problems/range-sum-query-mutable/?envType=problem-list-v2&envId=segment-tree)
@@ -407,6 +430,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 8. Count Good Triplets in an Array (https://leetcode.com/problems/count-good-triplets-in-an-array/description/)
 
 
+-----------------------------
 ### String matching Algo
 -----------------------------
 1. Find the Index of the First Occurrence in a String - KMP (https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)

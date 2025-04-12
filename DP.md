@@ -1,6 +1,9 @@
-Dynamic Programming
+## Dynamic Programming
+-----------------------------
+-----------------------------
 
-1D DP
+### 1D DP
+-----------------------------
 1. Number of ways to reach Nth floor by taking at-most K leaps (https://www.geeksforgeeks.org/number-of-ways-to-reach-nth-floor-by-taking-at-most-k-leaps/)
 2. Climbing Stairs (https://leetcode.com/problems/climbing-stairs/description/)
 3. Number of Ways to Reach a Position After Exactly k Steps - Look for both dp and combinatorics solution (https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/description/)
@@ -24,7 +27,8 @@ Dynamic Programming
 
 
 
-Partition DP
+### Partition DP
+-----------------------------
 1. Matrix Chain Multiplication (https://www.naukri.com/code360/problems/matrix-chain-multiplication_975344)
 2. Minimum Score Triangulation of Polygon (https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/)
 3. Minimum Cost to Cut a Stick (https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/)
@@ -35,7 +39,8 @@ Partition DP
 8. Boolean Parenthesization (https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1)
 
 
-LIS pattern
+### LIS pattern
+-----------------------------
 1. Longest increasing subsequence (https://leetcode.com/problems/longest-increasing-subsequence/description/)
 2. Largest Divisible Subset - printing LIS is involved as well (https://leetcode.com/problems/largest-divisible-subset/description/)
 3. Longest String Chain (https://leetcode.com/problems/longest-string-chain/description/)
@@ -46,7 +51,8 @@ LIS pattern
 8. Number of Longest Increasing Subsequence (https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 
 
-DP on Stocks
+### DP on Stocks
+-----------------------------
 1. Part 1 (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 2. Part 2 (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 3. With transaction fee (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)
@@ -54,7 +60,8 @@ DP on Stocks
 5. Part 4 (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 
 
-DP on Strings (LCS)
+### DP on Strings (LCS)
+-----------------------------
 1. Longest common subsequence (https://leetcode.com/problems/longest-common-subsequence/description/)
 2. Print LCS (https://www.naukri.com/code360/problems/print-longest-common-subsequence_8416383)
 3. Longest Common Substring (https://www.naukri.com/code360/problems/longest-common-substring_1235207)
@@ -72,7 +79,8 @@ DP on Strings (LCS)
 15. Longest Palindrome After Substring Concatenation II (https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/description/)
 
 
-DP on subsequences
+### DP on subsequences
+-----------------------------
 1. Subset Sum Equal To K (https://www.naukri.com/code360/problems/subset-sum-equal-to-k_1550954)
 2. Partition Equal Subset Sum (https://leetcode.com/problems/partition-equal-subset-sum/)
 3. Array partition with minimum difference (https://www.naukri.com/code360/problems/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum_842494)
@@ -103,7 +111,8 @@ DP on subsequences
 
 
 
-DP on grids
+### DP on grids
+-----------------------------
 1. Ninja training (https://www.naukri.com/code360/problems/ninja-s-training_3621003)
 2. Unique Paths (https://leetcode.com/problems/unique-paths/description/)
 3. Unique Paths II - Same as above but has obstruction in between (https://leetcode.com/problems/unique-paths-ii/description/)
@@ -118,14 +127,15 @@ DP on grids
 12. Cherry pickup (https://leetcode.com/problems/cherry-pickup/description/)
 
 
-Multidimensional DP
+### Multidimensional DP
 1. Paint House 3 (https://leetcode.com/problems/paint-house-iii/)
 2. Freedom Trail (https://leetcode.com/problems/freedom-trail/)
 3. Cutting a pizza (https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)
 4. Number of Music Playlists (https://leetcode.com/problems/number-of-music-playlists/description/)
 
 
-Digit DP
+### Digit DP
+-----------------------------
 1. Number of Digit One (https://leetcode.com/problems/number-of-digit-one/description/)
 2. Non-negative Integers without Consecutive Ones (https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description)
 3. Count Numbers with Unique Digits (https://leetcode.com/problems/count-numbers-with-unique-digits/)
@@ -134,11 +144,13 @@ Digit DP
 6. Count Substrings Divisible By Last Digit (https://leetcode.com/problems/count-substrings-divisible-by-last-digit/description/)
 
 
-2D Misc
+### 2D Misc
+-----------------------------
 1. Count Beautiful Splits in an Array - longest common prefix (https://leetcode.com/problems/count-beautiful-splits-in-an-array/description/)
 
 
-DP on Bitmask
+### DP on Bitmask
+-----------------------------
 1. Matchsticks to Square (https://leetcode.com/problems/matchsticks-to-square/description/)
 2. Partition to K Equal Sum Subsets (https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
 3. Can I Win - OPtimal game strategy (https://leetcode.com/problems/can-i-win/?envType=problem-list-v2&envId=96ddan7d)

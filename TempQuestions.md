@@ -1,4 +1,5 @@
-Backtracking && Recursion
+### Backtracking && Recursion
+-----------------------------
 
 1. Combination sum without dups and we can choose a number any number of times. Here TC -> O(N^(T/M)), T -> target sum, M -> smallest element, N->length of array (https://leetcode.com/problems/combination-sum/description/)
 2. Combination sum with dups -> TC-O(n*2^n) (https://leetcode.com/problems/combination-sum-ii/description/)
@@ -22,15 +23,18 @@ Backtracking && Recursion
 
 
 
-Meet in the middle
+### Meet in the middle
+-----------------------------
 1. Closest Subsequence Sum (https://leetcode.com/problems/closest-subsequence-sum/description/)
 
 
-Divide and conqure
+### Divide and conqure
+-----------------------------
 1. (https://leetcode.com/problems/find-array-given-subset-sums/description/)
 
 
-Graph
+### Graph
+-----------------------------
 1. Detect cycle in undirected graph (https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
 2. Detect cycle in Directed graph (https://www.naukri.com/code360/problems/detect-cycle-in-a-directed-graph_1062626?leftPanelTabValue=SUBMISSION)
 3. Rotten oranges (https://leetcode.com/problems/rotting-oranges/)
@@ -87,11 +91,13 @@ Graph
 50. Maximize the Number of Target Nodes After Connecting Trees I (https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/)
 51. Shortest Path in a Grid with Obstacles Elimination (https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/)
 52. [Do it if you have time] Frog Jump (https://leetcode.com/problems/frog-jump/description/)
+53. [Great question for min distance] Minimum Weighted Subgraph With the Required Paths (https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/)
 
 
 
 
-Binary Trees
+### Binary Trees
+-----------------------------
 1. [Too easy] Inorder, preorder, postorder, level order from leetcode
 2. [Too easy] Zig zag traversal (https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
 3. Diameter of a Binary tree (https://leetcode.com/problems/diameter-of-binary-tree/)
@@ -125,7 +131,8 @@ Binary Trees
 
 
 
-Binary search tree (BST)
+### Binary search tree (BST)
+-----------------------------
 -> FOR BST leverage the facility that leftTree < root -> data < rightTree
 -> Inorder is sorted (Think in this if nothing is working out)
 -> Use Stack to montonic operation && to create the BST iterator
@@ -145,7 +152,8 @@ Binary search tree (BST)
 13. Increasing Order Search Tree (https://leetcode.com/problems/increasing-order-search-tree/description/)
 
 
-Greedy (think greedily)
+### Greedy (think greedily)
+-----------------------------
 1. [V easy] Assign cookies (https://leetcode.com/problems/assign-cookies/description/)
 2. [V easy] Lemonade Change (https://leetcode.com/problems/lemonade-change/)
 3. Jump game - more of Greedy (https://leetcode.com/problems/jump-game/description/)
@@ -159,7 +167,8 @@ Scan left to right and right to left. at any moment if open < 0 or close < 0(rig
 
 
 
-Job scheduling problems (Greedy + DP)
+### Job scheduling problems (Greedy + DP)
+-----------------------------
 1. Job Sequencing Problem - See how to do it using DSU or priority queue (https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)
 2. N meetings in one room (https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
 3. Meeting Rooms III (https://leetcode.com/problems/meeting-rooms-iii/)
@@ -175,14 +184,16 @@ Job scheduling problems (Greedy + DP)
 
 
 
-Geometry (GOOGLE)
+### Geometry (GOOGLE)
+-----------------------------
 1. Minimum Area rectangle (https://leetcode.com/problems/minimum-area-rectangle/description/)
 2. Minimum Area rectangle II (https://leetcode.com/problems/minimum-area-rectangle-ii/editorial/)
 3. Separate Squares I (https://leetcode.com/problems/separate-squares-i/description/)
 
 
 
-Two pointer and Sliding window (Try to optimize it to 1 pass)
+### Two pointer and Sliding window (Try to optimize it to 1 pass)
+-----------------------------
 1. Maximum Points You Can Obtain from Cards (https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
 2. Longest Substring Without Repeating Characters (https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 3. Max Consecutive Ones III (https://leetcode.com/problems/max-consecutive-ones-iii/description/)
@@ -211,16 +222,21 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 25. Subarray with equal occurences (https://www.interviewbit.com/problems/subarray-with-equal-occurences/)
 26. Two out of Three (https://www.interviewbit.com/problems/two-out-of-three/)
 27. Count Subarrays With More Ones Than Zeros (https://algomonster.medium.com/2031-count-subarrays-with-more-ones-than-zeros-d1f684a17361)
+28. Longest Nice Subarray - (https://leetcode.com/problems/longest-nice-subarray/description/)
+29.  Minimum Operations to Make Binary Array Elements Equal to One I (https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/)
+30. Swap Adjacent in LR String (https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)
 
 
 
 
-Prefix sum
+### Prefix sum
+-----------------------------
 1. (https://leetcode.com/problems/corporate-flight-bookings/description/)
 2. Zero Array Transformation I (https://leetcode.com/problems/zero-array-transformation-i/description/)
 
 
-Hashing
+### Hashing
+-----------------------------
 1. 2sum (https://leetcode.com/problems/two-sum/description/)
 2. Longest Consecutive Sequence (https://leetcode.com/problems/longest-consecutive-sequence/description/)
 3. Largest subarray with 0 sum (https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
@@ -233,7 +249,8 @@ Hashing
 
 
 
-Priority queue
+### Priority queue
+-----------------------------
 1. Kth largest element - O(N) also possible (https://leetcode.com/problems/kth-largest-element-in-an-array/)
 2. Merge two binary max heaps (https://www.naukri.com/code360/problems/merge-two-binary-max-heaps_1170049)
 3. K-th Largest Sum Contiguous Subarray - O(N^2 logK) (https://www.geeksforgeeks.org/problems/k-th-largest-sum-contiguous-subarray/1)
@@ -244,7 +261,8 @@ Priority queue
 
 
 
-Stacks (Check if there is any monotonicity in problems, write down the question and check if we need next greater/smaller and prev greater/smaller)
+### Stacks (Check if there is any monotonicity in problems, write down the question and check if we need next greater/smaller and prev greater/smaller)
+-----------------------------
 1. Valid Parentheses (https://leetcode.com/problems/valid-parentheses/description/)
 2. Min stack (https://leetcode.com/problems/min-stack/description/)
 3. Next greater element 1 (https://leetcode.com/problems/next-greater-element-i/description/)
@@ -264,22 +282,25 @@ Stacks (Check if there is any monotonicity in problems, write down the question 
 
 
 
-Queue
+### Queue
+-----------------------------
 1. 
 
 
-Divide.  and conqure
+### Divide.  and conqure
 1. Count of Smaller Numbers After Self (https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 2. 
 
 
 
-Deque
+### Deque
+-----------------------------
 1. Shortest Subarray with Sum at Least K - Both Positive and negative numbers - Priority queue OR Deque  (https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)
 2. Sliding Window Maximum (https://leetcode.com/problems/sliding-window-maximum/description/)
 
 
-Binary search
+### Binary search
+-----------------------------
 1. Find First and Last Position of Element in Sorted Array (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
 2. Search in Rotated Sorted Array (https://leetcode.com/problems/search-in-rotated-sorted-array/)
 3. Search in Rotated Sorted Array II (https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
@@ -305,19 +326,8 @@ Binary search
 
 
 
-
-
-
-
-
-
-
-
-1. Longest Nice Subarray - (https://leetcode.com/problems/longest-nice-subarray/description/)
-2. Minimum Operations to Make Binary Array Elements Equal to One I (https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/)
-
-
-Math
+### Math
+-----------------------------
 1. GCD (https://www.naukri.com/code360/problems/hcf-and-lcm_840448?leftPanelTabValue=SUBMISSION)
 2. Print all prime factors (https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/description/)
 3. Prime all primes till n (https://leetcode.com/problems/count-primes/description/)
@@ -327,7 +337,8 @@ Math
 
 
 
-Array
+### Array
+-----------------------------
 1. First missing Positive number (https://leetcode.com/problems/first-missing-positive/description/)
 2. Container With Most Water (https://leetcode.com/problems/container-with-most-water/description/)
 3. Maximum Width Ramp (https://leetcode.com/problems/maximum-width-ramp/description/)
@@ -335,7 +346,8 @@ Array
 5. Maximum Value of an Ordered Triplet II (https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/)
 
 
-Linked list
+### Linked list
+-----------------------------
 1. Reverse a Doubly Linked List (https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
 2. Add two numbers (https://leetcode.com/problems/add-two-numbers/description/)
 3. Sort linked list of 0s 1s 2s (https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937)
@@ -365,14 +377,16 @@ Linked list
 
 
 
-Intervals
+### Intervals
+-----------------------------
 1. Merge intervals (https://leetcode.com/problems/merge-intervals/description/)
 2. Insert intervals (https://leetcode.com/problems/insert-interval/)
 3. Range module (https://leetcode.com/problems/range-module/)
 4. Interval List Intersections (https://leetcode.com/problems/interval-list-intersections/description/)
 
 
-Trie
+### Trie
+-----------------------------
 1. Implement Trie (Prefix Tree) (https://leetcode.com/problems/implement-trie-prefix-tree/)
 2. Implement trie 2 (https://www.naukri.com/code360/problems/implement-trie_1387095?leftPanelTabValue=PROBLEM)
 3. Complete string (https://www.naukri.com/code360/problems/complete-string_2687860?leftPanelTabValue=SUBMISSION)
@@ -380,16 +394,21 @@ Trie
 5. Maximum XOR of Two Numbers in an Array (https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 6. Longest Common Prefix of K Strings After Removal - Beautiful question of Trie (https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description/)
 
-Segment tree
+
+### Segment tree
+-----------------------------
 1. Range Sum Query - Mutable (https://leetcode.com/problems/range-sum-query-mutable/?envType=problem-list-v2&envId=segment-tree)
 2. Xenia and bitwise operation (https://codeforces.com/problemset/problem/339/D) - [Solution](https://github.com/apoorvKautilya21/Data-Structures-And-Algorithm-in-C-/blob/main/30.%20Segment%20trees/4_bitwiseCodeForces.cpp)
 3. Sereja and Brackets (https://codeforces.com/problemset/problem/380/C) - [Solution](https://github.com/apoorvKautilya21/Data-Structures-And-Algorithm-in-C-/blob/main/30.%20Segment%20trees/5_bracketsCodeforces.cpp)
 4. Count of Smaller Numbers After Self (https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/?envType=problem-list-v2&envId=segment-tree)
 5. Count of Range Sum (https://leetcode.com/problems/count-of-range-sum/description/?envType=problem-list-v2&envId=segment-tree)
 6. [Just see how we are using segment tree] Create Sorted Array through Instructions (https://leetcode.com/problems/create-sorted-array-through-instructions/description/)
+7. [Easy with fenwick] Queries on a Permutation With Key (https://leetcode.com/problems/queries-on-a-permutation-with-key/description/)
+8. Count Good Triplets in an Array (https://leetcode.com/problems/count-good-triplets-in-an-array/description/)
 
 
-String matching Algo
+### String matching Algo
+-----------------------------
 1. Find the Index of the First Occurrence in a String - KMP (https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
 2. Longest Happy Prefix - KMP (https://leetcode.com/problems/longest-happy-prefix/description/)
 3. Find the Occurrence of First Almost Equal Substring - Z Algo (https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/description/)
@@ -404,7 +423,7 @@ String matching Algo
 
 
 
----- Shortest Path Algos ----
+### ---- Shortest Path Algos ----
 
 1. For unit weights graphs - use BFS
 2. For DAG (-ve wts as well) use Topo sort - In O(V + E)
@@ -412,8 +431,7 @@ String matching Algo
 4. Bellman ford - all cases - detect -ve cycles ( use a dictionary to do this, and we repeatedly test out each edge to see if converting using the maximums we already know leads to a new maximum. We repeat until we are sure we have exhausted all possible (greedy) sequences of conversions. This is Bellman-Ford shortest path algorithm, where relaxing an edge just means trying out a conversion.)
 5. Floyd warshall - multi source shortest path - all cases - detect -ve cycles
 
----- Cycle detection ----
-
+### ---- Cycle detection ----
 1. Undirected graph - Use parent and current node to find cycle. If nbr of a src node is visible and it is not the parent then there is cycle. (BFS and DFS)
 2. Directed graph
     2.1 Start DFS from a source and store the path traversed. If we again come to the node present in the path then dang! there is a cycle. We will have to mark the path as false once we are done with dfs of the particular node

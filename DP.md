@@ -23,6 +23,7 @@
 16. Word break (https://leetcode.com/problems/word-break/description/)
 17. Domino and Tromino Tiling (https://leetcode.com/problems/domino-and-tromino-tiling/description/)
 18. Maximum Alternating Subsequence Sum (https://leetcode.com/problems/maximum-alternating-subsequence-sum/)
+19. [MUST DO]Student Attendance Record II - Try O(logn) (https://leetcode.com/problems/student-attendance-record-ii/description/)
 
 
 

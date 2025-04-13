@@ -96,6 +96,8 @@
 51. Shortest Path in a Grid with Obstacles Elimination (https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/)
 52. [Do it if you have time] Frog Jump (https://leetcode.com/problems/frog-jump/description/)
 53. [Great question for min distance] Minimum Weighted Subgraph With the Required Paths (https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/)
+54. Swim in Rising Water (https://leetcode.com/problems/swim-in-rising-water/description/)
+55. Battleships in a Board (https://leetcode.com/problems/battleships-in-a-board/description/)
 
 
 
@@ -363,6 +365,7 @@ smaller)
 3. Maximum Width Ramp (https://leetcode.com/problems/maximum-width-ramp/description/)
 4. Merge 2 sorted list (https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)
 5. Maximum Value of an Ordered Triplet II (https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/)
+6. Number of Matching Subsequences (https://leetcode.com/problems/number-of-matching-subsequences/description/)
 
 
 -----------------------------

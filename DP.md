@@ -24,6 +24,7 @@
 17. Domino and Tromino Tiling (https://leetcode.com/problems/domino-and-tromino-tiling/description/)
 18. Maximum Alternating Subsequence Sum (https://leetcode.com/problems/maximum-alternating-subsequence-sum/)
 19. [MUST DO]Student Attendance Record II - Try O(logn) (https://leetcode.com/problems/student-attendance-record-ii/description/)
+20. Filling book shelves (https://leetcode.com/problems/filling-bookcase-shelves/)
 
 
 

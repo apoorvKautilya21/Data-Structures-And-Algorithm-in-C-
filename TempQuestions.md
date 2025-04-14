@@ -98,6 +98,8 @@
 53. [Great question for min distance] Minimum Weighted Subgraph With the Required Paths (https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/)
 54. Swim in Rising Water (https://leetcode.com/problems/swim-in-rising-water/description/)
 55. Battleships in a Board (https://leetcode.com/problems/battleships-in-a-board/description/)
+56. Find All Possible Recipes from Given Supplies (https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/)
+57. Maximum Score of a Node Sequence (https://leetcode.com/problems/maximum-score-of-a-node-sequence/description/)
 
 
 
@@ -135,6 +137,7 @@
 26. Is binary tree heap (https://www.naukri.com/code360/problems/is-binary-heap-tree_893136?leftPanelTabValue=PROBLEM)
 27. Convert BST to Min Heap (https://www.geeksforgeeks.org/convert-bst-min-heap/) - SOLVE HERE (https://www.naukri.com/code360/problems/convert-bst-to-min-heap_920498)
 28. House robber III (https://leetcode.com/problems/house-robber-iii/)
+29. Step-By-Step Directions From a Binary Tree Node to Another (https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/)
 
 
 
@@ -191,6 +194,7 @@ Scan left to right and right to left. at any moment if open < 0 or close < 0(rig
 10. Task Scheduler (https://leetcode.com/problems/task-scheduler/description/)
 11. Course schedule III - think greedily (https://leetcode.com/problems/course-schedule-iii/description/)
 12. Number of weak characters (https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/)
+13. Find Servers That Handled Most Number of Requests (https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/description/)
 
 
 
@@ -276,7 +280,8 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 
 
 
------------------------------### Stacks (Check if there is any monotonicity in problems, write down the question and check if we need next greater/smaller and prev greater/
+-----------------------------
+### Stacks (Check if there is any monotonicity in problems, write down the question and check if we need next greater/smaller and prev greater/
 smaller)
 -----------------------------
 1. Valid Parentheses (https://leetcode.com/problems/valid-parentheses/description/)
@@ -294,6 +299,7 @@ smaller)
 13. Evaluate Reverse Polish Notation (https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 14. Decode string (https://leetcode.com/problems/decode-string/description/)
 15. Basic calculator II (https://leetcode.com/problems/basic-calculator-ii/description/)
+16. Basic calculator IV (https://leetcode.com/problems/basic-calculator-iv/description/)
 
 
 

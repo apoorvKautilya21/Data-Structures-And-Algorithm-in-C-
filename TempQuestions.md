@@ -21,6 +21,7 @@
 16. [SAME AS N-QUEEN-1] N-queen-2 (https://leetcode.com/problems/n-queens-ii/submissions/1576029867/)
 17. Remove Invalid Parentheses (https://leetcode.com/problems/remove-invalid-parentheses/)
 18. Maximum Score Words Formed by Letters (https://leetcode.com/problems/maximum-score-words-formed-by-letters/?envType=problem-list-v2&envId=bit-manipulation)
+19. Palindrome Permutation II (https://algo.monster/liteproblems/267) [Solution](https://github.com/apoorvKautilya21/Data-Structures-And-Algorithm-in-C-/blob/main/13.%20Backtracking/8_palindromePermutation_2.cpp)
 
 
 

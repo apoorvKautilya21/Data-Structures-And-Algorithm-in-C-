@@ -22,6 +22,7 @@
 17. Remove Invalid Parentheses (https://leetcode.com/problems/remove-invalid-parentheses/)
 18. Maximum Score Words Formed by Letters (https://leetcode.com/problems/maximum-score-words-formed-by-letters/?envType=problem-list-v2&envId=bit-manipulation)
 19. Palindrome Permutation II (https://algo.monster/liteproblems/267) [Solution](https://github.com/apoorvKautilya21/Data-Structures-And-Algorithm-in-C-/blob/main/13.%20Backtracking/8_palindromePermutation_2.cpp)
+20. Expression Add Operators (https://leetcode.com/problems/expression-add-operators/description/)
 
 
 
@@ -425,6 +426,7 @@ smaller)
 4. Count Distinct Substrings (https://www.naukri.com/code360/problems/count-distinct-substrings_985292)
 5. Maximum XOR of Two Numbers in an Array (https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 6. Longest Common Prefix of K Strings After Removal - Beautiful question of Trie (https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description/)
+7. Word search II (https://leetcode.com/problems/word-search-ii/description/)
 
 
 -----------------------------

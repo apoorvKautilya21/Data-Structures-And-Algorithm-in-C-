@@ -127,6 +127,8 @@
 10. Maximum Number of Points with Cost (https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)
 11. [DP + Stacks] Maximal Rectangle (https://leetcode.com/problems/maximal-rectangle/)
 12. Cherry pickup (https://leetcode.com/problems/cherry-pickup/description/)
+13. Largest Plus Sign (https://leetcode.com/problems/largest-plus-sign/description/)
+14. Maximal Square (https://leetcode.com/problems/maximal-square/description/)
 
 
 ### Multidimensional DP

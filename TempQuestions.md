@@ -102,6 +102,8 @@
 55. Battleships in a Board (https://leetcode.com/problems/battleships-in-a-board/description/)
 56. Find All Possible Recipes from Given Supplies (https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/)
 57. Maximum Score of a Node Sequence (https://leetcode.com/problems/maximum-score-of-a-node-sequence/description/)
+58. Minimum height trees (https://leetcode.com/problems/minimum-height-trees/description/)
+59. Find Minimum Diameter After Merging Two Trees (https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/)
 
 
 

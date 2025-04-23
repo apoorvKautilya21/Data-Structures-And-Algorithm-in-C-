@@ -79,6 +79,7 @@
 13. Longest palindromic substring - See Manacher's Algorithm if have time (https://leetcode.com/problems/longest-palindromic-substring/description/)
 14. Interleaving string (https://leetcode.com/problems/interleaving-string/description/)
 15. Longest Palindrome After Substring Concatenation II (https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/description/)
+16. Regular Expression Matching (https://leetcode.com/problems/regular-expression-matching/)
 
 
 ### DP on subsequences
@@ -110,6 +111,7 @@
 12. Rod cutting problem (https://www.naukri.com/code360/problems/rod-cutting-problem_800284?leftPanelTabValue=PROBLEM)
 13. Zero Array Transformation IV - Difficult to identify the DP but very satisfying - Subset sum variation (https://leetcode.com/problems/zero-array-transformation-iv/description/)
 14. Find Minimum Cost to Remove Array Elements - Different DP (https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/description/)
+15. Length of Longest Fibonacci Subsequence (https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/)
 
 
 
@@ -129,6 +131,7 @@
 12. Cherry pickup (https://leetcode.com/problems/cherry-pickup/description/)
 13. Largest Plus Sign (https://leetcode.com/problems/largest-plus-sign/description/)
 14. Maximal Square (https://leetcode.com/problems/maximal-square/description/)
+15. Minimum falling path sum (https://leetcode.com/problems/minimum-falling-path-sum-ii/description/)
 
 
 ### Multidimensional DP
@@ -163,5 +166,6 @@
 6. Maximize Grid Happiness (https://leetcode.com/problems/maximize-grid-happiness/)
 7. Count the Number of Square-Free Subsets (https://leetcode.com/problems/count-the-number-of-square-free-subsets/)
 8. Painting a Grid With Three Different Colors (https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/)
+9. Find the Minimum Cost Array Permutation (https://leetcode.com/problems/find-the-minimum-cost-array-permutation/description/)
 
 

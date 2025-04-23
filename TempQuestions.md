@@ -104,6 +104,7 @@
 57. Maximum Score of a Node Sequence (https://leetcode.com/problems/maximum-score-of-a-node-sequence/description/)
 58. Minimum height trees (https://leetcode.com/problems/minimum-height-trees/description/)
 59. Find Minimum Diameter After Merging Two Trees (https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/)
+60. [Later] Sum of Distances in Tree (https://leetcode.com/problems/sum-of-distances-in-tree/description/)
 
 
 
@@ -364,6 +365,9 @@ smaller)
 4. Primes primes in ranges - Prefix sum (https://www.geeksforgeeks.org/problems/count-primesFlatten a Multilevel Doubly Linked List-in-range1604/0)
 5. Closest Prime Numbers in Range (https://leetcode.com/problems/closest-prime-numbers-in-range/description/)
 6. Prime factorization query based O(Qlogn) (https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/description)
+7. Smallest Palindromic Rearrangement II (https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/description/)
+8. Count Numbers with Non-Decreasing Digits (https://leetcode.com/problems/count-numbers-with-non-decreasing-digits/description/)
+9. Find X Value of Array I (https://leetcode.com/problems/find-x-value-of-array-i/description/)
 
 
 
@@ -450,7 +454,8 @@ smaller)
 1. Find the Index of the First Occurrence in a String - KMP (https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
 2. Longest Happy Prefix - KMP (https://leetcode.com/problems/longest-happy-prefix/description/)
 3. Find the Occurrence of First Almost Equal Substring - Z Algo (https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/description/)
-
+4. Maximum Length of Repeated Subarray (https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)
+5. Find the Occurrence of First Almost Equal Substring (https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/description/)
 
 
 

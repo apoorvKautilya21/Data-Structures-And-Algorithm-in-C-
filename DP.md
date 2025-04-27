@@ -154,6 +154,7 @@
 ### 2D Misc
 -----------------------------
 1. Count Beautiful Splits in an Array - longest common prefix (https://leetcode.com/problems/count-beautiful-splits-in-an-array/description/)
+2. Find the Count of Monotonic Pairs I (https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/description/)
 
 
 ### DP on Bitmask

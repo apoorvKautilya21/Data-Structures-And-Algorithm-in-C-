@@ -23,6 +23,7 @@
 18. Maximum Score Words Formed by Letters (https://leetcode.com/problems/maximum-score-words-formed-by-letters/?envType=problem-list-v2&envId=bit-manipulation)
 19. Palindrome Permutation II (https://algo.monster/liteproblems/267) [Solution](https://github.com/apoorvKautilya21/Data-Structures-And-Algorithm-in-C-/blob/main/13.%20Backtracking/8_palindromePermutation_2.cpp)
 20. Expression Add Operators (https://leetcode.com/problems/expression-add-operators/description/)
+21. Robot room cleaner (https://leetcode.com/problems/robot-room-cleaner/description/)
 
 
 
@@ -104,7 +105,11 @@
 57. Maximum Score of a Node Sequence (https://leetcode.com/problems/maximum-score-of-a-node-sequence/description/)
 58. Minimum height trees (https://leetcode.com/problems/minimum-height-trees/description/)
 59. Find Minimum Diameter After Merging Two Trees (https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/)
-60. [Later] Sum of Distances in Tree (https://leetcode.com/problems/sum-of-distances-in-tree/description/)
+60. Count Nodes With the Highest Score (https://leetcode.com/problems/count-nodes-with-the-highest-score/description/)
+61. Sum of Distances in Tree (https://leetcode.com/problems/sum-of-distances-in-tree/description/)
+62. Maximum Score After Applying Operations on a Tree - DP on trees (https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/)
+63. Maximum Number of Points From Grid Queries (https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/)
+64. The Earliest Moment When Everyone Become Friends (https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)
 
 
 
@@ -143,6 +148,9 @@
 27. Convert BST to Min Heap (https://www.geeksforgeeks.org/convert-bst-min-heap/) - SOLVE HERE (https://www.naukri.com/code360/problems/convert-bst-to-min-heap_920498)
 28. House robber III (https://leetcode.com/problems/house-robber-iii/)
 29. Step-By-Step Directions From a Binary Tree Node to Another (https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/)
+30. Distribute Coins in Binary Tree (https://leetcode.com/problems/distribute-coins-in-binary-tree/description/)
+31. Binary tree cameras (https://leetcode.com/problems/binary-tree-cameras/description/)
+32. Find leaves of binary tree (https://leetcode.com/problems/find-leaves-of-binary-tree/description/)
 
 
 
@@ -181,6 +189,8 @@
 8. Valid Parenthesis String (https://leetcode.com/problems/valid-parenthesis-string/description/)
 Scan left to right and right to left. at any moment if open < 0 or close < 0(right to Left) return false
 9. Minimum Number of Refueling Stops (https://leetcode.com/problems/minimum-number-of-refueling-stops/)
+10. Put Marbles in Bags (https://leetcode.com/problems/put-marbles-in-bags/description/)
+11. 
 
 
 
@@ -200,6 +210,7 @@ Scan left to right and right to left. at any moment if open < 0 or close < 0(rig
 11. Course schedule III - think greedily (https://leetcode.com/problems/course-schedule-iii/description/)
 12. Number of weak characters (https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/description/)
 13. Find Servers That Handled Most Number of Requests (https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/description/)
+14. Increment decrement (https://github.com/apoorvKautilya21/Data-Structures-And-Algorithm-in-C-/blob/main/Miscel/q1.cpp)
 
 
 
@@ -209,6 +220,7 @@ Scan left to right and right to left. at any moment if open < 0 or close < 0(rig
 1. Minimum Area rectangle (https://leetcode.com/problems/minimum-area-rectangle/description/)
 2. Minimum Area rectangle II (https://leetcode.com/problems/minimum-area-rectangle-ii/editorial/)
 3. Separate Squares I (https://leetcode.com/problems/separate-squares-i/description/)
+4. Maximum Number of Visible Points (https://leetcode.com/problems/maximum-number-of-visible-points/description/)
 
 
 
@@ -286,8 +298,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 
 
 -----------------------------
-### Stacks (Check if there is any monotonicity in problems, write down the question and check if we need next greater/smaller and prev greater/
-smaller)
+### Stacks (Check if there is any monotonicity in problems, write down the question and check if we need next greater/smaller and prev greater/smaller)
 -----------------------------
 1. Valid Parentheses (https://leetcode.com/problems/valid-parentheses/description/)
 2. Min stack (https://leetcode.com/problems/min-stack/description/)
@@ -305,6 +316,9 @@ smaller)
 14. Decode string (https://leetcode.com/problems/decode-string/description/)
 15. Basic calculator II (https://leetcode.com/problems/basic-calculator-ii/description/)
 16. Basic calculator IV (https://leetcode.com/problems/basic-calculator-iv/description/)
+17. Apply Operations to Maximize Score (https://leetcode.com/problems/apply-operations-to-maximize-score/description/)
+18. Number of Visible People in a Queue (https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/)
+
 
 
 
@@ -368,6 +382,7 @@ smaller)
 7. Smallest Palindromic Rearrangement II (https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/description/)
 8. Count Numbers with Non-Decreasing Digits (https://leetcode.com/problems/count-numbers-with-non-decreasing-digits/description/)
 9. Find X Value of Array I (https://leetcode.com/problems/find-x-value-of-array-i/description/)
+10. Count the Number of Ideal Arrays (https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/)
 
 
 
@@ -380,7 +395,12 @@ smaller)
 4. Merge 2 sorted list (https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)
 5. Maximum Value of an Ordered Triplet II (https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/)
 6. Number of Matching Subsequences (https://leetcode.com/problems/number-of-matching-subsequences/description/)
+7. Integer to English Words (https://leetcode.com/problems/integer-to-english-words/description/)
+8. Snapshot array (https://leetcode.com/problems/snapshot-array/description/)
 
+### Random
+1. Random Pick with Weight (https://leetcode.com/problems/random-pick-with-weight/description/)
+2. Guess the word (https://leetcode.com/problems/guess-the-word/description/)
 
 -----------------------------
 ### Linked list
@@ -456,6 +476,7 @@ smaller)
 3. Find the Occurrence of First Almost Equal Substring - Z Algo (https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/description/)
 4. Maximum Length of Repeated Subarray (https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)
 5. Find the Occurrence of First Almost Equal Substring (https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/description/)
+6. Find the String with LCP (https://leetcode.com/problems/find-the-string-with-lcp/description/)
 
 
 

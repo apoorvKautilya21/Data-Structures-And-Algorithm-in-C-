@@ -110,6 +110,7 @@
 62. Maximum Score After Applying Operations on a Tree - DP on trees (https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/)
 63. Maximum Number of Points From Grid Queries (https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/)
 64. The Earliest Moment When Everyone Become Friends (https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)
+65. Last Day Where You Can Still Cross (https://leetcode.com/problems/last-day-where-you-can-still-cross/description/)
 
 
 
@@ -258,6 +259,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 28. Longest Nice Subarray - (https://leetcode.com/problems/longest-nice-subarray/description/)
 29.  Minimum Operations to Make Binary Array Elements Equal to One I (https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/)
 30. Swap Adjacent in LR String (https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)
+31. Count Non-Decreasing Subarrays After K Operations (https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/description/)
 
 
 
@@ -318,6 +320,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 16. Basic calculator IV (https://leetcode.com/problems/basic-calculator-iv/description/)
 17. Apply Operations to Maximize Score (https://leetcode.com/problems/apply-operations-to-maximize-score/description/)
 18. Number of Visible People in a Queue (https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/)
+19. Basic calculator III (https://leetcode.com/problems/basic-calculator-iii/)
 
 
 
@@ -441,6 +444,9 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 2. Insert intervals (https://leetcode.com/problems/insert-interval/)
 3. Range module (https://leetcode.com/problems/range-module/)
 4. Interval List Intersections (https://leetcode.com/problems/interval-list-intersections/description/)
+5. Minimum Number of Arrows to Burst Balloons (https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
+6. Remove Covered Intervals (https://leetcode.com/problems/remove-covered-intervals/description/)
+
 
 
 -----------------------------
@@ -458,6 +464,9 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 -----------------------------
 ### Segment tree
 -----------------------------
+BIT supports associative operations like sum or XOR, but we can modify it to support range maximum queries. Instead of storing sums in the tree, you store maximums.
+If you need to overwrite a value (e.g., tree[i] = val, not max), BIT won't help directly — you'd need a Segment Tree.
+
 1. Range Sum Query - Mutable (https://leetcode.com/problems/range-sum-query-mutable/?envType=problem-list-v2&envId=segment-tree)
 2. Xenia and bitwise operation (https://codeforces.com/problemset/problem/339/D) - [Solution](https://github.com/apoorvKautilya21/Data-Structures-And-Algorithm-in-C-/blob/main/30.%20Segment%20trees/4_bitwiseCodeForces.cpp)
 3. Sereja and Brackets (https://codeforces.com/problemset/problem/380/C) - [Solution](https://github.com/apoorvKautilya21/Data-Structures-And-Algorithm-in-C-/blob/main/30.%20Segment%20trees/5_bracketsCodeforces.cpp)
@@ -466,6 +475,9 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 6. [Just see how we are using segment tree] Create Sorted Array through Instructions (https://leetcode.com/problems/create-sorted-array-through-instructions/description/)
 7. [Easy with fenwick] Queries on a Permutation With Key (https://leetcode.com/problems/queries-on-a-permutation-with-key/description/)
 8. Count Good Triplets in an Array (https://leetcode.com/problems/count-good-triplets-in-an-array/description/)
+9. Longest Increasing Subsequence II (https://leetcode.com/problems/longest-increasing-subsequence-ii/description/)
+10. Maximize Subarray Sum After Removing All Occurrences of One Element (https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/description/)
+11. Count Number of Teams (https://leetcode.com/problems/count-number-of-teams/description/)
 
 
 -----------------------------

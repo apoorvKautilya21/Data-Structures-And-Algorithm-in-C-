@@ -111,6 +111,7 @@
 63. Maximum Number of Points From Grid Queries (https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/)
 64. The Earliest Moment When Everyone Become Friends (https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)
 65. Last Day Where You Can Still Cross (https://leetcode.com/problems/last-day-where-you-can-still-cross/description/)
+66. Apply Substitutions (https://leetcode.com/problems/apply-substitutions/description/)
 
 
 
@@ -321,6 +322,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 17. Apply Operations to Maximize Score (https://leetcode.com/problems/apply-operations-to-maximize-score/description/)
 18. Number of Visible People in a Queue (https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/)
 19. Basic calculator III (https://leetcode.com/problems/basic-calculator-iii/)
+20. Find the celebrity (https://leetcode.com/problems/find-the-celebrity/description/)
 
 
 

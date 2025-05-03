@@ -112,6 +112,9 @@
 64. The Earliest Moment When Everyone Become Friends (https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)
 65. Last Day Where You Can Still Cross (https://leetcode.com/problems/last-day-where-you-can-still-cross/description/)
 66. Apply Substitutions (https://leetcode.com/problems/apply-substitutions/description/)
+67. Valid Arrangement of Pairs (https://leetcode.com/problems/valid-arrangement-of-pairs/description/)
+68. Minimum Obstacle Removal to Reach Corner - First try dijkstra then modified bfs for optimization (https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)
+69. Trapping rain water II (https://leetcode.com/problems/trapping-rain-water-ii/description/)
 
 
 
@@ -261,6 +264,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 29.  Minimum Operations to Make Binary Array Elements Equal to One I (https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/)
 30. Swap Adjacent in LR String (https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)
 31. Count Non-Decreasing Subarrays After K Operations (https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/description/)
+32. Push dominoes (https://leetcode.com/problems/push-dominoes/description/)
 
 
 

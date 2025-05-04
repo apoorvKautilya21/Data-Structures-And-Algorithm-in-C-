@@ -520,6 +520,53 @@ If you need to overwrite a value (e.g., tree[i] = val, not max), BIT won't help 
     2.2 Use topo sort (BFS). If all nodes will be visited using topo sort then there isn't any cycle.
     2.3 For directed graph if you want to find the nodes which are in cycle or which ends up in a cycle then see the problem "Find eventual states".
 
+# 🧭 Eulerian Path vs Eulerian Circuit
+
+- **Eulerian Path**: A path that **visits every edge exactly once**
+- **Eulerian Circuit**: An Eulerian Path that **starts and ends at the same vertex**
+
+---
+
+## 📘 Eulerian Path and Circuit in **Undirected Graphs**
+
+### ✅ Requirements:
+1. **Connectivity**:  
+   All vertices with non-zero degree must be **part of the same connected component**  
+   (Vertices with 0 degree are irrelevant)
+
+2. **Eulerian Circuit**:  
+   All vertices must have **even degree**
+
+3. **Eulerian Path** *(but not circuit)*:  
+   Exactly **two vertices** have **odd degree**, and the rest have **even degree**  
+   (Path starts and ends at the odd-degree vertices)
+
+---
+
+## 📗 Eulerian Path and Circuit in **Directed Graphs**
+
+### ✅ Requirements:
+1. **Connectivity**:  
+   All vertices with non-zero degree must be **strongly connected** in terms of edge reachability
+
+2. **Eulerian Circuit**:  
+   Every vertex has:
+   - **In-degree = Out-degree**
+
+3. **Eulerian Path** *(but not circuit)*:
+   - At most **one vertex** with: `out-degree - in-degree = 1` → this is the **start node**
+   - At most **one vertex** with: `in-degree - out-degree = 1` → this is the **end node**
+   - All other vertices must have `in-degree = out-degree`
+
+---
+
+## 📌 Quick Summary Table
+
+| Graph Type      | Eulerian Circuit Condition          | Eulerian Path Condition                          |
+|------------------|--------------------------------------|--------------------------------------------------|
+| **Undirected**   | All vertices have **even degree**    | Exactly **2 vertices** have **odd degree**       |
+| **Directed**     | `in-degree == out-degree` for all    | One node with `out - in = 1`, one with `in - out = 1` |
+
 
 
 https://leetcode.com/discuss/post/5031296/google-technical-phone-screen-round-2024-1mbj/

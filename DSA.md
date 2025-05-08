@@ -115,6 +115,7 @@
 67. Valid Arrangement of Pairs (https://leetcode.com/problems/valid-arrangement-of-pairs/description/)
 68. Minimum Obstacle Removal to Reach Corner - First try dijkstra then modified bfs for optimization (https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)
 69. Trapping rain water II (https://leetcode.com/problems/trapping-rain-water-ii/description/)
+70. Longest cycle in a graph (https://leetcode.com/problems/longest-cycle-in-a-graph/editorial/)
 
 
 
@@ -195,7 +196,7 @@
 Scan left to right and right to left. at any moment if open < 0 or close < 0(right to Left) return false
 9. Minimum Number of Refueling Stops (https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 10. Put Marbles in Bags (https://leetcode.com/problems/put-marbles-in-bags/description/)
-11. 
+11. Maximum Number of Tasks You Can Assign (https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/)
 
 
 

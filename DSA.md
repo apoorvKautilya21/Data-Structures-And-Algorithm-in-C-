@@ -116,6 +116,7 @@
 68. Minimum Obstacle Removal to Reach Corner - First try dijkstra then modified bfs for optimization (https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)
 69. Trapping rain water II (https://leetcode.com/problems/trapping-rain-water-ii/description/)
 70. Longest cycle in a graph (https://leetcode.com/problems/longest-cycle-in-a-graph/editorial/)
+71. Maximize the Number of Target Nodes After Connecting Trees II (https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/)
 
 
 
@@ -197,6 +198,11 @@ Scan left to right and right to left. at any moment if open < 0 or close < 0(rig
 9. Minimum Number of Refueling Stops (https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 10. Put Marbles in Bags (https://leetcode.com/problems/put-marbles-in-bags/description/)
 11. Maximum Number of Tasks You Can Assign (https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/)
+12. Maximum Swap (https://leetcode.com/problems/maximum-swap/description/)
+13. Minimum Domino Rotations For Equal Row (https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/)
+14. Make Array Non-decreasing (https://leetcode.com/problems/make-array-non-decreasing/)
+15. Rabbits in Forest (https://leetcode.com/problems/rabbits-in-forest/description/)
+16. Minimum Replacements to Sort the Array (https://leetcode.com/problems/minimum-replacements-to-sort-the-array/)
 
 
 
@@ -370,12 +376,13 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 13. Aggressive cows (https://www.geeksforgeeks.org/problems/aggressive-cows/0)
 14. Allocate Minimum Pages (https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)
 15. The Painter's Partition Problem-II (https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
-16. Minimize Max Distance to Gas Station (https://www.naukri.com/code360/problems/minimise-max-distance_7541449)
+16. Minimize Max Distance to Gas Station (https://www.naukri.com/code360/problems/minimise-max-distance_7541449) OR (https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/)
 17. Median of Two Sorted Arrays (https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 18. K-th Element of Two Sorted Arrays (https://www.naukri.com/code360/problems/k-th-element-of-2-sorted-array_1164159)
 19. My calendar I - See both use cases, start time and endTime (https://leetcode.com/problems/my-calendar-i/)
 20. My calendar II (https://leetcode.com/problems/my-calendar-ii/)
 21. My calendar III (https://leetcode.com/problems/my-calendar-iii/)
+22. Kth Smallest Product of Two Sorted Arrays (https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/)
 
 
 
@@ -407,6 +414,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 6. Number of Matching Subsequences (https://leetcode.com/problems/number-of-matching-subsequences/description/)
 7. Integer to English Words (https://leetcode.com/problems/integer-to-english-words/description/)
 8. Snapshot array (https://leetcode.com/problems/snapshot-array/description/)
+9. Majority element II (https://leetcode.com/problems/majority-element-ii/)
 
 ### Random
 1. Random Pick with Weight (https://leetcode.com/problems/random-pick-with-weight/description/)
@@ -440,6 +448,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 23. Merge k sorted lists (https://leetcode.com/problems/merge-k-sorted-lists/description/)
 24. Linked List in Binary Tree (https://leetcode.com/problems/linked-list-in-binary-tree/description/)
 25. Minimum Pair Removal to Sort Array II (https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/description/)
+26. Insert into a Sorted Circular Linked List (https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/)
 
 
 
@@ -461,7 +470,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 -----------------------------
 1. Implement Trie (Prefix Tree) (https://leetcode.com/problems/implement-trie-prefix-tree/)
 2. Implement trie 2 (https://www.naukri.com/code360/problems/implement-trie_1387095?leftPanelTabValue=PROBLEM)
-3. Complete string (https://www.naukri.com/code360/problems/complete-string_2687860?leftPanelTabValue=SUBMISSION)
+3. Complete string (https://www.naukri.com/code360/problems/complete-string_2687860?leftPanelTabValue=SUBMISSION) OR (https://leetcode.com/problems/longest-word-with-all-prefixes/description/)
 4. Count Distinct Substrings (https://www.naukri.com/code360/problems/count-distinct-substrings_985292)
 5. Maximum XOR of Two Numbers in an Array (https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 6. Longest Common Prefix of K Strings After Removal - Beautiful question of Trie (https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/description/)

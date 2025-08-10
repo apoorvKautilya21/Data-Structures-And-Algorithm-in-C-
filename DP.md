@@ -60,6 +60,7 @@
 3. With transaction fee (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)
 4. With cooldown (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
 5. Part 4 (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+6. Part 5 (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/description/)
 
 
 ### DP on Strings (LCS)
@@ -80,6 +81,7 @@
 14. Interleaving string (https://leetcode.com/problems/interleaving-string/description/)
 15. Longest Palindrome After Substring Concatenation II (https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/description/)
 16. Regular Expression Matching (https://leetcode.com/problems/regular-expression-matching/)
+17. Minimum Steps to Convert String with Operations (https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations/description/)
 
 
 ### DP on subsequences

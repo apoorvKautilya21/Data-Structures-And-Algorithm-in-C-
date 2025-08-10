@@ -117,6 +117,7 @@
 69. Trapping rain water II (https://leetcode.com/problems/trapping-rain-water-ii/description/)
 70. Longest cycle in a graph (https://leetcode.com/problems/longest-cycle-in-a-graph/editorial/)
 71. Maximize the Number of Target Nodes After Connecting Trees II (https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/)
+72. Maximum Sum of Edge Values in a Graph (https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/description/)
 
 
 
@@ -203,6 +204,8 @@ Scan left to right and right to left. at any moment if open < 0 or close < 0(rig
 14. Make Array Non-decreasing (https://leetcode.com/problems/make-array-non-decreasing/)
 15. Rabbits in Forest (https://leetcode.com/problems/rabbits-in-forest/description/)
 16. Minimum Replacements to Sort the Array (https://leetcode.com/problems/minimum-replacements-to-sort-the-array/)
+17. Zero Array Transformation III (https://leetcode.com/problems/zero-array-transformation-iii/description/)
+18. Earliest Finish Time for Land and Water Rides II (https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/description/)
 
 
 
@@ -272,6 +275,7 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 30. Swap Adjacent in LR String (https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)
 31. Count Non-Decreasing Subarrays After K Operations (https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/description/)
 32. Push dominoes (https://leetcode.com/problems/push-dominoes/description/)
+33. Maximum Product of First and Last Elements of a Subsequence (https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence/)
 
 
 

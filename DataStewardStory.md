@@ -79,12 +79,13 @@ That moment changed my mindset. I took full ownership of the feature, drove alig
 
 S
 - October 2024, Celigo was preparing for a critical Gartner demo.
-- build data steward for efficient error tracking across all flows and integrations
+- build data steward for efficient & interactive error tracking dashboard across all flows and integrations to help users track, prioritize, and resolve errors.
+- Before this feature existed, users had a fragmented view of their errors
 - built from scratch
 
 T
 - Leadership wanted me to own the feature E2E
-- no prior experience in build animated graphs and dashboards
+- no prior experience in build animated graphs and dashboards, and lots of concepts which I just studied about like polling, pagination
 - No dedicated BE apis to support the live data for graphs
 - i understood the requirement and got the data ready for graphs using existing APIS
 
@@ -104,4 +105,8 @@ R
 - highly praised by PMs and directors
 - changed my mindset from hesitation to confidence and lead the feature through ambiguity
 
+Metrics
+The ‘30% improvement in issue tracking efficiency’ came from internal tracking: after this dashboard was released, internal teams reported a clear drop in time taken to triage and understand error distribution — especially through components like ‘Exceptions by Assignee’ and ‘Age of Exceptions.’ PMs also observed fewer context-switches across modules, which saved time in handling errors.”
+
+The ‘40% reduction in manual intervention’ came from flow-level UI features I developed — such as error retry, assignment, and tagging — directly from the dashboard. These actions previously required navigating into individual records or using backend tools. After launch, we saw a significant drop in manual tickets and task switches for these operations.” (Playwright Automation)
 

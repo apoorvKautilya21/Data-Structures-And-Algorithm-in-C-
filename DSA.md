@@ -387,6 +387,8 @@ https://leetcode.com/problems/minimum-window-substring/solutions/26808/here-is-a
 20. My calendar II (https://leetcode.com/problems/my-calendar-ii/)
 21. My calendar III (https://leetcode.com/problems/my-calendar-iii/)
 22. Kth Smallest Product of Two Sorted Arrays (https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/)
+23. Minimum Removals to Balance Array (https://leetcode.com/problems/minimum-removals-to-balance-array/description/)
+24. Minimum Time to Activate String (https://leetcode.com/problems/minimum-time-to-activate-string/description/)
 
 
 
